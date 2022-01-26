@@ -20,7 +20,7 @@ function flip() {
     console.log(firstCard);
     console.log(secondCard);
 
-    // checkIt();
+    checkIt();
   }
 }
 
